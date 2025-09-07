@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, ich bin Dominik 👋
 
-<!--
-**specklab/specklab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Umschüler Fachinformatiker Systemintegration** mit Forschergeist.  
+Ich verbinde **Linux, Netzwerke, Automatisierung** mit **Forschung** (Bioinformatik, HPC, Open Science).
 
-Here are some ideas to get you started:
+- 🔭 Aktuell: Bewerbungen bei **Fraunhofer / TUM / Helmholtz / DLR**
+- 🧪 Tools: pfSense · Proxmox · Docker · Bash · Python (Pandas, NumPy, Jupyter)
+- 🧰 Homelab: VLANs, Monitoring (Prometheus/Grafana), Self-Hosted Services
+- 🌱 Lernziele: Ansible, CI/CD, reproducible research
+- 🤝 Praktikum: **03.12.2025 – 17.07.2026**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Links:**  
+[LinkedIn](https://www.linkedin.com/in/dominik-speckbacher) · dominik.speckbacher@gfn.education
+
+> „Systeme strukturieren. Lösungen gestalten. Forschung möglich machen.“
