@@ -1,15 +1,31 @@
 # Hi, ich bin Dominik 👋
 
-**Umschüler Fachinformatiker Systemintegration** mit Forschergeist.  
-Ich verbinde **Linux, Netzwerke, Automatisierung** mit **Forschung** (Bioinformatik, HPC, Open Science).
+**Fachinformatiker Systemintegration (i. A.)**  
+Ich verbinde Systemintegration mit naturwissenschaftlicher Anwendung.
 
-- 🔭 Aktuell: Bewerbungen bei **Fraunhofer / TUM / Helmholtz / DLR**
-- 🧪 Tools: pfSense · Proxmox · Docker · Bash · Python (Pandas, NumPy, Jupyter)
-- 🧰 Homelab: VLANs, Monitoring (Prometheus/Grafana), Self-Hosted Services
-- 🌱 Lernziele: Ansible, CI/CD, reproducible research
-- 🤝 Praktikum: **03.12.2025 – 17.07.2026**
+Linux · Netzwerke · Automatisierung · Data Science · Open Source
 
-**Links:**  
-[LinkedIn](https://www.linkedin.com/in/dominik-speckbacher) · dominik.speckbacher@gfn.education
+Ich entwickle automatisierte IT-Projekte mit Fokus auf Datenerfassung und -analyse –  
+von Sensorik bis zur wissenschaftlichen Auswertung.
 
-> „Systeme strukturieren. Lösungen gestalten. Forschung möglich machen.“
+---
+
+🔬 **Aktuelle Projekte**
+- Environmental Sensing (ESP32 + Sensorik + Datenerfassung)
+- Python Data Analysis mit Pandas, Jupyter & CSV/SQL
+- Homelab-Infrastruktur (Proxmox, pfSense, Docker)
+- Reproduzierbare Dokumentation & Monitoring (Ansible, Git, Grafana)
+
+📌 **Zielsetzung**  
+Forschungstaugliche IT-Strukturen gestalten, dokumentieren und evaluieren.  
+Praktisch einsetzbar in Lehre, Labor und wissenschaftlicher Infrastruktur.
+
+---
+
+🔗 **Links**  
+[LinkedIn](https://www.linkedin.com/in/dominik-speckbacher)  
+GitHub Pages: [specklab.github.io](https://specklab.github.io)  
+E-Mail: dominik.speckbacher@gfn.education
+
+🧠 *„Systeme strukturieren. Lösungen gestalten. Forschung möglich machen.“*
+
