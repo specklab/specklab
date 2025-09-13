@@ -70,3 +70,15 @@ Weitere typische Probleme & Lösungen aus meinem Homelab:
 ## 🎯 Zielbild
 - **Prüfungsprojekt IHK** → voll dokumentiertes Homelab  
 - **Portfolio für Bewerbungen** → praxisnahe Beispiele, Troubleshooting & Automatisierung  
+
+
+---
+
+
+![Linux](https://img.shields.io/badge/Linux-Debian-blue?logo=debian)
+![Networking](https://img.shields.io/badge/Networking-DNS%2FDHCP%2FVPN-green)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?logo=proxmox)
+![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
+![TrueNAS](https://img.shields.io/badge/Storage-TrueNAS-blue?logo=truenas)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions)
